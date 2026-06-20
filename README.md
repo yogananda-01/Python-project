@@ -1,2 +1,16 @@
-# Python-project
-My python projects and learning journey
+# Python Projects
+
+Hi, I'm G. Yogananda 👋
+
+Class 12 Student at Everwin Vidhyashram.
+
+Skills:
+- Python
+- Java (Basic)
+- MS Word
+
+Projects:
+1. Calculator
+2. Quiz App
+
+Currently learning Python and building projects for internships.
